@@ -1,3 +1,6 @@
+To samo, a nawet więcej: https://github.com/mieszkou/docker-lamp
+
+
 # docker-lamp z MSSQL
 
 Apache + PHP + MSSQL
